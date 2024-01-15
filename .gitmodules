@@ -1,0 +1,4 @@
+[submodule "AI-Portfolio"]
+    path = AI-Portfolio
+    url = https://github.com/acabalAI/AI-Portfolio.git
+

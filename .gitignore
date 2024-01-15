@@ -1,0 +1,24 @@
+# .gitignore
+
+# Ignore all .env files
+.env*
+
+# Additional common ignores
+
+# Ignore node modules
+node_modules/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
