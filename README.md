@@ -2,14 +2,15 @@
 
 ## Introduction
 
-Welcome to my AI project portfolio, where I explore the fascinating world of Artificial Intelligence and its potential to enhance human life. I am Alberto Caballero, a passionate AI enthusiast with a strong academic foundation and a track record of delivering innovative AI solutions. My journey in AI has led me to work on diverse projects, including multinational initiatives and the development of conversational agents for Qigong practitioners and Job Interview simulators.
+Welcome to my AI project portfolio, where I explore the fascinating world of Artificial Intelligence and its potential to enhance human life. I am Alberto Caballero, a passionate AI enthusiast with a strong academic foundation and a track record of delivering innovative AI solutions. My journey in AI has led me to work on diverse projects, including multinational initiatives and the development of conversational agents for Qigong practitioners and Job Interview simulators as well as AI-based negotiation tools.
 
 - **LLM-FineTuning**: A deep dive into Large Language Models (LLMs) and fine-tuning techniques to enhance their performance for specific tasks.
 - **RLHF-Toxicity**: Experimentation with Reinforcement Learning from Human Feedback (RLHF) to create less toxic content, aligning AI outputs with human values and ethical standards.
 - **Qigong-Assistant**: In collaboration with the shanghai University of Traditional Chinese Medicine and the Institute of Qigong Research of Shanghai we are developing a multilingual AI-based assistant for international practicioners of Qigong, the progress of the project was published and share in a Conference in October 2023.
 - **Political News Intention Detection**: In this project part of my [Master Thesis](assets/documents/TFM_CaballeroHinojosaAlberto.pdf) we explore the relevance of detecting Political news intentions and how we can implement effective systems through LLMs for such end, the projec is an on-going endevour that has cristallized into a PhD research project at UNED-NLP research center.
 - **Fake Jobs prediction and Topic Modelling**: Exploration of advanced topic modeling techniques to uncover latent themes within textual datasets.
-- **Job Interview Similation-bot**: In this project we develop a Simulation bot with a dinamic dialogue manager to guide and provide feed-back to job seekers
+- **Job Interview Similation-bot**: In this project we develop a Simulation bot with a dinamic dialogue manager to guide and provide feed-back to job seekers.
+- **AI-based Negotiating tools**: LLM-based Data analyst agent designed to assist humans in negotiating situations.
 
 ## About Me
 
