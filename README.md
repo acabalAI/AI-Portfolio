@@ -1,8 +1,8 @@
-# Alberto Caballero - AI Specialist (Focus on NLP)
+# Alberto Caballero - AI Specialist
 
 ## Introduction
 
-Welcome to my AI project portfolio, where I explore the fascinating world of Artificial Intelligence and its potential to enhance human life. I am Alberto Caballero, a passionate AI enthusiast with a strong academic foundation and a track record of delivering innovative AI solutions. My journey in AI has led me to work on diverse projects, including multinational initiatives and the development of conversational agents for Qigong practitioners and Job Interview simulators as well as AI-based negotiation tools.
+Welcome to my AI project portfolio, where I explore the fascinating world of Artificial Intelligence and its potential to enhance human life. I am Alberto Caballero, a passionate AI professional with a strong academic foundation and a track record of delivering innovative AI solutions. My journey in AI has led me to work on diverse projects, including multinational initiatives and the development of conversational agents for Qigong practitioners and Job Interview simulators as well as AI-based negotiation tools and Narratives Detection system in Social Media.
 
 - **LLM-FineTuning**: A deep dive into Large Language Models (LLMs) and fine-tuning techniques to enhance their performance for specific tasks.
 - **RLHF-Toxicity**: Experimentation with Reinforcement Learning from Human Feedback (RLHF) to create less toxic content, aligning AI outputs with human values and ethical standards.
@@ -10,16 +10,23 @@ Welcome to my AI project portfolio, where I explore the fascinating world of Art
 - **Political News Intention Detection**: In this project part of my [Master Thesis](assets/documents/TFM_CaballeroHinojosaAlberto.pdf) we explore the relevance of detecting Political news intentions and how we can implement effective systems through LLMs for such end, the projec is an on-going endevour that has cristallized into a PhD research project at UNED-NLP research center.
 - **Fake Jobs prediction and Topic Modelling**: Exploration of advanced topic modeling techniques to uncover latent themes within textual datasets.
 - **Job Interview Similation-bot**: In this project we develop a Simulation bot with a dinamic dialogue manager to guide and provide feed-back to job seekers.
-- **AI-based Negotiating tools**: LLM-based Data analyst agent designed to assist humans in negotiating situations.
+- **AI-based Narratives Detection System**: System to detect Narratives in Social Media Contest, the proposed system obtained the best result in the DIPROMATS 24 competition.
 
 ## About Me
 
 ### Education
 
-- M.S. in Language Technology at UNED
-- Post-Graduate Data Science and AI at Texas University
-- B.S in Economics at Carlos III University
+    Ph.D. Student and Researcher
+    Universidad Nacional de Educación a Distancia (UNED)
 
+    M.S. in Language Technology
+    Universidad Nacional de Educación a Distancia (UNED)
+
+    Post-Graduate in Data Science and AI
+    Texas University
+
+    - B.S. in Economics
+    Carlos III University
 ### Interests
 
 I am deeply passionate about the transformative potential of Artificial Intelligence (AI) to shape our future. My interests span a wide spectrum of AI-related domains:
@@ -28,6 +35,7 @@ I am deeply passionate about the transformative potential of Artificial Intellig
 - **Machine Learning and Deep Learning**: Exploring the depths of machine learning, from traditional algorithms to deep neural networks.
 - **Knowledge Representation and Integration**: Unifying diverse knowledge sources to build intelligent systems.
 - **Ethical AI**: Ensuring the development and deployment of AI systems are ethical and unbiased.
+- **Cognitive AI**: Replicate Human congitive processes using the latest AI tecnology to improve scalability and transparency.
 
 ## Portfolio Projects
 
@@ -64,6 +72,13 @@ This project was developed in collaboration with Omdena, its goal is to create a
 [![https://github.com/acabalAI/Interview_bot](/assets/img/Job_interview.jpeg)](https://github.com/acabalAI/Interview_bot)
 
 This project was developed in collaboration with Omdena, its goal is to create a platform to guide job seekers to identify false job offers as well as to assist them in navigating the semantic interpretaion embedded in this kind of elements.
+
+
+
+### **AI-based Narratives Detection System**
+[![[https://github.com/acabalAI/Dipromats_24_T2](/assets/img/Dipro_24.jpg)](https://github.com/acabalAI/Dipromats_24_T2)
+
+This proyect developed in cooperation with the NLP & IR Group Research Group at UNED was part of a AI competition within the framework of 2024 Iberian Languages Evaluation Forum  (IberLEF), the system proposed obtained the first place in its task.
 
 
 ### Work Experience
