@@ -16,17 +16,18 @@ Welcome to my AI project portfolio, where I explore the fascinating world of Art
 
 ### Education
 
-    Ph.D. Student and Researcher
-    Universidad Nacional de Educación a Distancia (UNED)
+- **Ph.D. Student and Researcher**:
+        Universidad Nacional de Educación a Distancia (UNED)
 
-    M.S. in Language Technology
-    Universidad Nacional de Educación a Distancia (UNED)
+- **M.S. in Language Technology**
+        Universidad Nacional de Educación a Distancia (UNED)
 
-    Post-Graduate in Data Science and AI
-    Texas University
+- **Post-Graduate in Data Science and AI**
+        Texas University
 
-    - B.S. in Economics
-    Carlos III University
+- **B.S. in Economics**
+        Carlos III University
+        
 ### Interests
 
 I am deeply passionate about the transformative potential of Artificial Intelligence (AI) to shape our future. My interests span a wide spectrum of AI-related domains:
@@ -35,7 +36,7 @@ I am deeply passionate about the transformative potential of Artificial Intellig
 - **Machine Learning and Deep Learning**: Exploring the depths of machine learning, from traditional algorithms to deep neural networks.
 - **Knowledge Representation and Integration**: Unifying diverse knowledge sources to build intelligent systems.
 - **Ethical AI**: Ensuring the development and deployment of AI systems are ethical and unbiased.
-- **Cognitive AI**: Replicate Human congitive processes using the latest AI tecnology to improve scalability and transparency.
+- **Cognitive AI**: Replicate Human congitive processes using the latest AI technology to improve scalability and transparency of systems.
 
 ## Portfolio Projects
 
@@ -81,12 +82,13 @@ This project was developed in collaboration with Omdena, its goal is to create a
 This proyect developed in cooperation with the NLP & IR Group Research Group at UNED was part of a AI competition within the framework of 2024 Iberian Languages Evaluation Forum  (IberLEF), the system proposed obtained the first place in its task.
 
 
-### Work Experience
+### Work Experience/Direction
 
-- AI Project Director at LLM Systems
+- AI Engineer at Omdena
 - Knowledge-base Integration
 - LLMs-based Intelligent Systems
 - AI and Human Development
+- Human Cognition replicability
 
 ## Professional Contributions
 
