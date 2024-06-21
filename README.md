@@ -74,10 +74,8 @@ This project was developed in collaboration with Omdena, its goal is to create a
 
 This project was developed in collaboration with Omdena, its goal is to create a platform to guide job seekers to identify false job offers as well as to assist them in navigating the semantic interpretaion embedded in this kind of elements.
 
-
-
 ### **AI-based Narratives Detection System**
-[![[https://github.com/acabalAI/Dipromats_24_T2](/assets/img/Dipro_24.jpg)](https://github.com/acabalAI/Dipromats_24_T2)
+[![Dipro_24](/assets/img/Dipro_24.jpg)](https://github.com/acabalAI/Dipromats_24_T2)
 
 This proyect developed in cooperation with the NLP & IR Group Research Group at UNED was part of a AI competition within the framework of 2024 Iberian Languages Evaluation Forum  (IberLEF), the system proposed obtained the first place in its task.
 
